@@ -1,0 +1,8 @@
+program Practica0_3;
+var
+	N1,N2,division:real;
+BEGIN
+	writeln('Ingrese dos numeros reales');
+	readln(N1, N2);
+	writeln('El resultado es :' , N1/N2:1:2);
+END.
